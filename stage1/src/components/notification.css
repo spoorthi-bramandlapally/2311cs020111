@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+.container{
+    width:60%;
+    margin:auto;
+    margin-top:30px;
+    text-align:center;
+}
+
+select{
+    padding:10px;
+    margin:20px;
+    font-size:16px;
+}
+
+.card{
+    background:white;
+    margin:15px;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 0 8px gray;
+}
+
+.card h3{
+    color:rgb(227, 151, 167);
+}
